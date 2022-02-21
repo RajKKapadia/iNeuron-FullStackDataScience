@@ -1,5 +1,5 @@
-h = int(input('Enter height of the triangle: '))
-b = int(input('Enter base of the triangle: '))
+h = float(input('Enter height of the triangle: '))
+b = float(input('Enter base of the triangle: '))
 
 a = 0.5 * h * b
 
